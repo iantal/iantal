@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=noraj&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=noraj&show_icons=true&theme=nord&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=noraj&row=1&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noraj&theme=nord)](https://git.io/streak-stats) 
+
 <!--
 **iantal/iantal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
